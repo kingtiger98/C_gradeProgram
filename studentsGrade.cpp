@@ -67,6 +67,7 @@ int main()
 	return 0;
 }
 
+
 // 구조적 프로그래밍들 ㄱ 
 void START(int x) // 프로그램 시작 알림
 {
